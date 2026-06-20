@@ -3,7 +3,7 @@
 An end-to-end Machine Learning project to predict weekly sales using economic indicators and historical trends.
 
 ## 🚀 Live Demo
-
+https://walmart-sales-forecasting-dqsn5cr5euoskjamxz9rwv.streamlit.app/
 
 ## 📊 Project Overview
 The goal of this project is to forecast the weekly sales of Walmart stores. I used a combination of economic data (CPI, Unemployment, Fuel Price) and time-series features to build a high-accuracy prediction model.
