@@ -5,7 +5,7 @@ import numpy as np
 
 # 1. Load the saved model pipeline
 # Make sure this filename matches exactly what you saved in your notebook
-model = joblib.load(r'C:\Users\DELL\AI_Walmart_Sales_Forecasting\dataset\walmart_model_rf.pkl')
+model = joblib.load(r'C:\Users\DELL\AI_Walmart_Sales_Forecasting\walmart_model_rf.pkl')
 
 st.set_page_config(page_title="Walmart Sales Predictor", page_icon="🛒")
 
